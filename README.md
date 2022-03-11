@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jonas-Yonas
-- 👀 I’m interested in various web programming languages and technologies, particularly in Angular, React (js), and Node.js.
+- 👀 I’m interested in various web programming languages and technologies, particularly in Angular, React.js, and Node.js.
 - 🌱 I’m currently learning Next.js and GraphQL
 - 📫 Get reach me via Yonas1520@gmail.com
 
